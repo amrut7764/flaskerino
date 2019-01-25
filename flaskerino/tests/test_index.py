@@ -32,7 +32,7 @@ class BasicTests(unittest.TestCase):
 
     # test fetch_images() count
     def test_image_count(self):
-        self.assertEqual(len(fetch_images()), 4)
+        self.assertEqual(len(fetch_images()), 5)
 
     # test fetch_images() width
     def test_images_width(self):

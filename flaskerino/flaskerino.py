@@ -15,7 +15,8 @@ def fetch_images():
         "width": 274,
         "image_path": "../static/images/fulls/01.jpg",
         "thumb_path": "../static/images/thumbs/01.jpg"
-    }, {
+        },
+        {
         "name": "Sexy Flanders",
         "width": 282,
         "image_path": "../static/images/fulls/02.jpg",
@@ -32,9 +33,14 @@ def fetch_images():
         "width": 232,
         "image_path": "../static/images/fulls/04.jpg",
         "thumb_path": "../static/images/thumbs/04.jpg"
-    }
-
-             ]
+        },
+        {
+        "name": "MoneyMan",
+        "width": 380,
+        "image_path": "../static/images/fulls/05.jpg",
+        "thumb_path": "../static/images/thumbs/05.jpg"
+        }
+    ]
 
     return images
 
