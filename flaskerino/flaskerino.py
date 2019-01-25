@@ -39,6 +39,12 @@ def fetch_images():
         "width": 380,
         "image_path": "../static/images/fulls/05.jpg",
         "thumb_path": "../static/images/thumbs/05.jpg"
+     },
+        {
+        "name": "XmasAtSimpsons",
+        "width": 432,
+        "image_path": "../static/images/fulls/06.jpg",
+        "thumb_path": "../static/images/thumbs/06.jpg"
         }
     ]
 
