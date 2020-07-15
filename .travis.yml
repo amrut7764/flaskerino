@@ -9,4 +9,7 @@ install:
 
 script:
   - echo "Building the project"
+  - find . -name  "*.py" -exec pylint '{}' \;
   - echo "Continuing with Tests"
+  - cd flaskerino
+  - python tests/test_index.py -v
