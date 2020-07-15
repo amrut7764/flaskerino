@@ -9,3 +9,4 @@ install:
 
 script:
   - echo "Building the project"
+  - echo "Continuing with Tests"
