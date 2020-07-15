@@ -8,4 +8,4 @@ install:
   - pip install -e .
 
 script:
-  - echo "Building the poject"
+  - echo "Building the project"
